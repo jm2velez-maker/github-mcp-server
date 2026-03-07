@@ -1,4 +1,4 @@
-0x71c7656ec7ab88b098defb751b7401b5f6d8976f[![Go Report Card](https://goreportcard.com/badge/github.com/github/github-mcp-server)](https://goreportcard.com/report/github.com/github/github-mcp-server)
+0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF0x5ff137d4b0fdcd49dca30c7cf57e578a026d2789[![Go Report Card](https://goreportcard.com/badge/github.com/github/github-mcp-server)](https://goreportcard.com/report/github.com/github/github-mcp-server)
 
 # GitHub MCP Server
 
